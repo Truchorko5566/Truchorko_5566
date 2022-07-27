@@ -29,11 +29,11 @@ export const header = {
      <>
       + <span className="font-semibold">User:</span>{" "}
       <Link href="https://discord.com/users/840025174651830333">
-       <a target="_blank">Majonez.exe#2495</a>
+       <a target="_blank">Truchorko_#5566</a>
       </Link>
       <br />+ <span className="font-semibold">Link:</span>{" "}
       <Link href="https://team.arcades.ga/discord">
-       <a target="_blank">https://discord.gg/uxtSMtd2xZ</a>
+       <a target="_blank">https://discord.gg/utmuExHwyT</a>
       </Link>
      </>
     ),
