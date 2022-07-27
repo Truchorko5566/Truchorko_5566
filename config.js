@@ -1,10 +1,10 @@
 import Link from "next/link";
 
 export const meta = {
- title: "Igor Kowalczyk",
- author: "Igor Kowalczyk",
- description: "I'm a full-stack developer based in Poland. I have a passion for building web applications and solving problems",
- url: "https://igorkowalczyk.dev",
+ title: "Truchorko5566",
+ author: "Truchorko5566",
+ description: "Soy un desarrollador full-stack con sede en Polonia. Me apasiona construir aplicaciones web y resolver problemas.",
+ url: "https://team.arcades.ga",
  theme_color: "#5485f2",
  type: "website",
 };
@@ -14,25 +14,25 @@ export const feautures = {
 };
 
 export const header = {
- title: "Igor Kowalczyk",
+ title: "Truchorko5566",
  subtitle: "Full-stack developer",
- description: "I'm a full-stack developer based in Poland. I have a passion for building web applications and solving problems.",
+ description: "Soy un desarrollador full-stack con sede en Polonia. Me apasiona construir aplicaciones web y resolver problemas.",
  code: {
   default: {
-   user: "igorkowalczyk",
+   user: "Truchorko5566",
   },
   lines: [
    {
     command: "contact --discord",
-    user: "igorkowalczyk",
+    user: "Truchorko5566",
     response: (
      <>
       + <span className="font-semibold">User:</span>{" "}
-      <Link href="https://discord.com/users/544164729354977282">
+      <Link href="https://discord.com/users/840025174651830333">
        <a target="_blank">Majonez.exe#2495</a>
       </Link>
       <br />+ <span className="font-semibold">Link:</span>{" "}
-      <Link href="https://discord.gg/uxtSMtd2xZ">
+      <Link href="https://team.arcades.ga/discord">
        <a target="_blank">https://discord.gg/uxtSMtd2xZ</a>
       </Link>
      </>
@@ -70,7 +70,7 @@ export const nav = {
 export const contact = {
  links: [
   {
-   href: "mailto:majonezexe@protonmail.com",
+   href: "mailto:truchorko2@gmail.com",
    title: "Email",
    icon: (
     <svg xmlns="http://www.w3.org/2000/svg" className="mt-[2px] mr-2 h-4 w-4 duration-200 motion-reduce:transition-none" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
@@ -118,8 +118,8 @@ export const contact = {
 export const social = {
  image: "/assets/banner.png",
  github: {
-  username: "igorkowalczyk",
-  repo: "igorkowalczyk.github.io",
+  username: "Truchorko-Developer",
+  repo: "Truchorko-Developer.github.io",
  },
 };
 
