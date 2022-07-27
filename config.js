@@ -1,9 +1,9 @@
 import Link from "next/link";
 
 export const meta = {
- title: "Truchorko5566",
- author: "Truchorko5566",
- description: "Soy un desarrollador full-stack con sede en Polonia. Me apasiona construir aplicaciones web y resolver problemas.",
+ title: "Truchorko_#5566",
+ author: "Truchorko_#5566",
+ description: "Soy un desarrollador full-stack con sede en Colombia. Me apasiona construir aplicaciones web y resolver problemas.",
  url: "https://team.arcades.ga",
  theme_color: "#5485f2",
  type: "website",
@@ -14,17 +14,17 @@ export const feautures = {
 };
 
 export const header = {
- title: "Truchorko5566",
+ title: "Truchorko_#5566",
  subtitle: "Full-stack developer",
- description: "Soy un desarrollador full-stack con sede en Polonia. Me apasiona construir aplicaciones web y resolver problemas.",
+ description: "Soy un desarrollador full-stack con sede en Colombia. Me apasiona construir aplicaciones web y resolver problemas.",
  code: {
   default: {
-   user: "Truchorko5566",
+   user: "Truchorko_#5566",
   },
   lines: [
    {
     command: "contact --discord",
-    user: "Truchorko5566",
+    user: "Truchorko_#5566",
     response: (
      <>
       + <span className="font-semibold">User:</span>{" "}
