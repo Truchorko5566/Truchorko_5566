@@ -1,8 +1,8 @@
 import Link from "next/link";
 
 export const meta = {
- title: "Truchorko_#5566",
- author: "Truchorko_#5566",
+ title: "Truchorko5566",
+ author: "Truchorko5566",
  description: "Soy un desarrollador full-stack con sede en Colombia. Me apasiona construir aplicaciones web y resolver problemas.",
  url: "https://team.arcades.ga",
  theme_color: "#5485f2",
@@ -14,12 +14,12 @@ export const feautures = {
 };
 
 export const header = {
- title: "Truchorko_#5566",
+ title: "Truchorko5566",
  subtitle: "Full-stack developer",
  description: "Soy un desarrollador full-stack con sede en Colombia. Me apasiona construir aplicaciones web y resolver problemas.",
  code: {
   default: {
-   user: "Truchorko_#5566",
+   user: "Truchorko5566",
   },
   lines: [
    {
