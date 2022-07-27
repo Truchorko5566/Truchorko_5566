@@ -32,7 +32,7 @@ export const header = {
        <a target="_blank">Truchorko_#5566</a>
       </Link>
       <br />+ <span className="font-semibold">Link:</span>{" "}
-      <Link href="https://team.arcades.ga/discord">
+      <Link href="https://discord.gg/utmuExHwyT">
        <a target="_blank">https://discord.gg/utmuExHwyT</a>
       </Link>
      </>
