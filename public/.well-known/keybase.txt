@@ -1,11 +1,11 @@
 ==================================================================
-https://keybase.io/igorkowalczyk
+https://keybase.io/Truchorko_
 --------------------------------------------------------------------
 
 I hereby claim:
 
-  * I am an admin of https://igorkowalczyk.vercel.app
-  * I am igorkowalczyk (https://keybase.io/igorkowalczyk) on keybase.
+  * I am an admin of https://truchorko5566.vercel.app
+  * I am Truchorko_ (https://keybase.io/Truchorko_) on keybase.
   * I have a public key with fingerprint 7212 C8A2 6091 9C81 39C4  1AC5 8F4A D8CB ECBC 3B60
 
 To do so, I am signing this object:
@@ -19,7 +19,7 @@ To do so, I am signing this object:
       "key_id": "8f4ad8cbecbc3b60",
       "kid": "0101a3242fa70ab2edc20fda73bdb3c3cb632e7117d76b5f6fd19dcccf367ae13efa0a",
       "uid": "7bd2d829db57e609482d9c241f275119",
-      "username": "igorkowalczyk"
+      "username": "Truchorko_"
     },
     "merkle_root": {
       "ctime": 1657301551,
@@ -32,7 +32,7 @@ To do so, I am signing this object:
       ]
     },
     "service": {
-      "hostname": "igorkowalczyk.vercel.app",
+      "hostname": "Truchorko5566.vercel.app",
       "protocol": "https:"
     },
     "type": "web_service_binding",
@@ -76,6 +76,6 @@ ekf7uqOnyov7Gn6476Q//9bowHlv1UCtd+aJ829coN0vHbmt966vHzzQuG/u6Nu1
 And finally, I am proving ownership of this host by posting or
 appending to this document.
 
-View my publicly-auditable identity here: https://keybase.io/igorkowalczyk
+View my publicly-auditable identity here: https://keybase.io/Truchorko_
 
 ==================================================================

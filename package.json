@@ -1,5 +1,5 @@
 {
- "name": "igorkowalczyk-portfolio",
+ "name": "Truchorko5566-portfolio",
  "description": "My portfolio built on Next.js",
  "version": "2.3.0",
  "private": true,
@@ -63,12 +63,12 @@
  ],
  "repository": {
   "type": "git",
-  "url": "git+https://github.com/igorkowalczyk/igorkowalczyk.dev.git"
+  "url": "git+https://github.com/Truchorko-Developer/truchorko5566.vercel.app.git"
  },
- "author": "Igor Kowalczyk",
+ "author": "Truchorko_",
  "license": "MIT",
  "bugs": {
-  "url": "https://github.com/igorkowalczyk/igorkowalczyk.dev/issues"
+  "url": "https://github.com/Truchorko-Developer/truchorko5566.vercel.app/issues"
  },
- "homepage": "https://igorkowalczyk.vercel.app"
+ "homepage": "https://truchorko5566.vercel.app"
 }
