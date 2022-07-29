@@ -32,22 +32,22 @@ module.exports = withPWA({
   return [
    {
     source: "/discord",
-    destination: "https://discord.gg/uxtSMtd2xZ",
+    destination: "https://discord.gg/utmuExHwyT",
     permanent: true,
    },
    {
     source: "/twitter",
-    destination: "https://twitter.com/majonezexe",
+    destination: "https://twitter.com/Truchorko_",
     permanent: true,
    },
    {
     source: "/instagram",
-    destination: "https://www.instagram.com/majonezexe/",
+    destination: "https://www.instagram.com/",
     permanent: true,
    },
    {
     source: "/blog",
-    destination: "https://igorkowalczyk.github.io/blog/",
+    destination: "https://team.arcades.ga/",
     permanent: true,
    },
    {
