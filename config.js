@@ -118,8 +118,8 @@ export const contact = {
 export const social = {
  image: "/assets/banner.png",
  github: {
-  username: "Truchorko-Developer",
-  repo: "Truchorko-Developer.github.io",
+  username: "Truchorko5566",
+  repo: "Truchorko5566.github.io",
  },
 };
 
