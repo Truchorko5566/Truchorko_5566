@@ -6,7 +6,7 @@
 
 ### 🔩 Self Hosting
 
-1. Clone [this repository](https://github.com/Truchorko5566/Truchorko_5566.github.io) `git clone https://github.com/Truchorko5566/Truchorko_5566.github.io.git`
+1. Clone [this repository](https://github.com/Truchorko5566/Truchorko_5566) `git clone https://github.com/Truchorko5566/Truchorko_5566.github.io.git`
 2. Run `npm i` to install all dependencies,
 3. Fill `config.js` with your values
 4. Create new file named `.env` Remember - the file is super secret, better to not share it.
