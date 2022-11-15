@@ -20,5 +20,5 @@
 
 ## Credits
 
-> [IgorKowalczyk](https://github.com/IgorKowalczyk) <br />
-> [Repositorio_Completo_Y_Actual](https://github.com/IgorKowalczyk/igorkowalczyk.github.io.git)
+> [**IgorKowalczyk**](https://github.com/IgorKowalczyk) <br />
+> [`Repositorio_Completo_Y_Actual`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io.git)
