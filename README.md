@@ -20,5 +20,5 @@
 
 ## 👨‍💻 Creditos actuales
 
-> [**IgorKowalczyk**](https://github.com/IgorKowalczyk) <br />
+> [**IgorKowalczyk** Desarrollador](https://github.com/IgorKowalczyk) <br />
 > [`Repositorio_Completo_Y_Actual`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io.git)
