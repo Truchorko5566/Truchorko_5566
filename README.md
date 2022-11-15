@@ -4,7 +4,7 @@
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Truchorko5566/Truchorko_5566.git)
 <a href="https://repl.it/github/Truchorko5566/Truchorko_5566.git"><img src="https://repl.it/badge/github/Truchorko5566/Truchorko_5566.github.io" alt="Run on replit" height="32"/></a>
 
-### 🔩 Self Hosting
+### 🔩 Implementar en local
 
 1. Clone [este repositorio](https://github.com/Truchorko5566/Truchorko_5566) `git clone https://github.com/Truchorko5566/Truchorko_5566.git`
 2. Ejecute `npm i` para instalar todas las dependencias,
@@ -18,7 +18,7 @@
 7. Ejecute `npm run build` para compilar el proyecto o `npm run dev` para ejecutar el proyecto en modo de desarrollo.
 > Si desea compilar y alojar el proyecto, puede usar `npm run deployment`
 
-## Credits
+## Creditos actuales
 
 > [**IgorKowalczyk**](https://github.com/IgorKowalczyk) <br />
 > [`Repositorio_Completo_Y_Actual`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io.git)
