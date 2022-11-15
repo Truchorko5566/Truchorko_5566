@@ -6,16 +6,19 @@
 
 ### 🔩 Self Hosting
 
-1. Clone [this repository](https://github.com/Truchorko5566/Truchorko_5566) `git clone https://github.com/Truchorko5566/Truchorko_5566.github.io.git`
-2. Run `npm i` to install all dependencies,
-3. Fill `config.js` with your values
-4. Create new file named `.env` Remember - the file is super secret, better to not share it.
-5. In `.env` file set this values:
-   - `GITHUB_ACCESS_TOKEN` - Your GitHub access token with public repositories permission
-6. In `.env` file set this **optional** values:
-   - `NEXT_PUBLIC_ARC_TOKEN` - Your [Arc.io](https://arc.io) website token
-   - `NEXT_PUBLIC_GA_WEBSITE_ID` - Your [Google Analytics](https://analytics.google.com) website ID
-7. Run `npm run build` to build the project or `npm run dev` to run the project in development mode.
-   > If you want to build and host the project you can use `npm run deploy`
+1. Clone [este repositorio](https://github.com/Truchorko5566/Truchorko_5566) `git clone https://github.com/Truchorko5566/Truchorko_5566.git`
+2. Ejecute `npm i` para instalar todas las dependencias,
+3. Rellene `config.js` con sus valores
+4. Cree un nuevo archivo llamado `.env` Recuerde: el archivo es súper secreto, es mejor no compartirlo.
+5. En el archivo `.env` establezca estos valores:
+- `GITHUB_ACCESS_TOKEN` - Su token de acceso a GitHub con permiso de repositorios públicos
+6. En el archivo `.env` establezca estos valores **opcionales**:
+- `NEXT_PUBLIC_ARC_TOKEN` - Su token de sitio web [Arc.io](https://arc.io)
+- `NEXT_PUBLIC_GA_WEBSITE_ID` - Su ID de sitio web de [Google Analytics](https://analytics.google.com)
+7. Ejecute `npm run build` para compilar el proyecto o `npm run dev` para ejecutar el proyecto en modo de desarrollo.
+> Si desea compilar y alojar el proyecto, puede usar `npm run deployment`
 
 ## Credits
+
+[IgorKowalczyk](https://github.com/IgorKowalczyk)
+[Repositorio_Completo_Y_Actual](https://github.com/IgorKowalczyk/igorkowalczyk.github.io.git)
