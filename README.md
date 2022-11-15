@@ -18,7 +18,7 @@
 7. Ejecute `npm run build` para compilar el proyecto o `npm run dev` para ejecutar el proyecto en modo de desarrollo.
 > Si desea compilar y alojar el proyecto, puede usar `npm run deployment`
 
-## Creditos actuales
+## 👨‍💻 Creditos actuales
 
 > [**IgorKowalczyk**](https://github.com/IgorKowalczyk) <br />
 > [`Repositorio_Completo_Y_Actual`](https://github.com/IgorKowalczyk/igorkowalczyk.github.io.git)
